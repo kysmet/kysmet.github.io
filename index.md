@@ -1,2 +1,2 @@
-## Welcome to K Yuvaraj Sekhar's Homepage
+## My interest areas are Machine Learning, Deep Learning, NLP, CV and Computational Neuroscience.
 
